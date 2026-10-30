@@ -1,6 +1,7 @@
 # 本地开发辅助，不上传
 _backup/
 _serve.ps1
+_deploy.ps1
 _mobile-test.html
 qr.png
 *.log
